@@ -38,4 +38,19 @@ graph TD
     JM[Josh Morgan, Digital Production Manager] --> DPS[Digital Production Student Workers]
 ```
 
+## Projects and Applications
 
+
+
+## Other Organizations
+
+### [UTK Metadata](https://github.com/UTKcataloging/)
+
+While members of our group have responsibility for creating descriptive metadata, this is kept in a this organizational
+GitHub account.
+
+### [Digital Library of Tennessee](https://github.com/DigitalLibraryofTennessee/)
+
+Members of Digital Initiatives are responsible for the technical infrastructure related to the aggregation activities of
+the Digital Library of Tennessee.  Because this work is multi-institutional, we keep applications and code related to 
+this work in this organization.
