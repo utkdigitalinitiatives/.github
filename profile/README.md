@@ -40,6 +40,9 @@ graph TD
 
 ## Projects and Applications
 
+### IIIF
+
+* [IIIF Assemble](https://github.com/utkdigitalinitiatives/iiif_assemble): Application that Generates IIIF Presentation v3 Manifests for our current repository
 
 
 ## Other Organizations
