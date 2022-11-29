@@ -18,8 +18,17 @@ Digital Initiatives at the University of Tennessee Libraries collaborates with o
 * [Meredith Hale](https://github.com/mlhale7), Metadata Librarian <br>![Github stats](https://github-readme-stats.vercel.app/api?username=mlhale7&theme=dracula&show_icons=true&count_private=true)
 * [Mike Jones](https://github.com/mkaljns), Director of Technology Solutions <br>![Github stats](https://github-readme-stats.vercel.app/api?username=mkaljns&theme=synthwave&show_icons=true&count_private=true)
 * [Paul Cummins](https://github.com/pc37utn), IT Administrator II <br>![Github stats](https://github-readme-stats.vercel.app/api?username=pc37utn&theme=prussian&show_icons=true&count_private=true)
-* [Sarah Funk](https://github.com/sfunk3), Frontend Developer <br>![Github stats](https://github-readme-stats.vercel.app/api?username=sfunk3&theme=shades-of-purple&show_icons=true&count_private=true)
 * [Josh Morgan](), Digital Production Manager
+
+### Alumni and Alumnae
+
+These people have moved on to new jobs and new careers but made significant contributions to our team in the past.
+
+* [Bridger Dyson-Smith](https://github.com/canofbees)
+* [Don Richards](https://github.com/DonRichards)
+* [Mat Jordan](https://github.com/mathewjordan/)
+* [Sarah Funk](https://github.com/sfunk3)
+
 
 ### Org Chart
 
@@ -31,7 +40,7 @@ graph TD
     MB[Mark Baggett, Head] --> MJ[Mike Jones, Director of Technology Solutions]
     MB[Mark Baggett, Head] --> PRA[/Vacant, Publishing and Repository Administrator/]
     MJ[Mike Jones, Director of Technology Solutions] --> PC[Paul Cummins, IT Admin II]
-    MJ[Mike Jones, Director of Technology Solutions] --> SF[Sarah Funk, Frontend Developer]
+    MJ[Mike Jones, Director of Technology Solutions] --> SF[Vacant, Frontend Developer]
     MJ[Mike Jones, Director of Technology Solutions] --> BED[/Vacant, Backend Developer/]
     MJ[Mike Jones, Director of Technology Solutions] --> LAD[/Vacant, Lead Applications Developer/]
     MH[Meredith Hale, Metadata Librarian] --> MS[Metadata Student Workers]
