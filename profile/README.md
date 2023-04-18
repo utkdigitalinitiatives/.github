@@ -14,11 +14,12 @@ Digital Initiatives at the University of Tennessee Libraries collaborates with o
 
 ### Who We Are
 
+* [David Shaw](https://github.com/dshaw11), Frontend Developer <br>![Github stats](https://github-readme-stats.vercel.app/api?username=dshaw11&theme=radical&show_icons=true&count_private=true)
+* [Josh Morgan](), Digital Production Manager
 * [Mark Baggett](https://github.com/markpbaggett), Head <br>![Github stats](https://github-readme-stats.vercel.app/api?username=markpbaggett&theme=cobalt&show_icons=true&count_private=true)
 * [Meredith Hale](https://github.com/mlhale7), Metadata Librarian <br>![Github stats](https://github-readme-stats.vercel.app/api?username=mlhale7&theme=dracula&show_icons=true&count_private=true)
 * [Mike Jones](https://github.com/mkaljns), Director of Technology Solutions <br>![Github stats](https://github-readme-stats.vercel.app/api?username=mkaljns&theme=synthwave&show_icons=true&count_private=true)
 * [Paul Cummins](https://github.com/pc37utn), IT Administrator II <br>![Github stats](https://github-readme-stats.vercel.app/api?username=pc37utn&theme=prussian&show_icons=true&count_private=true)
-* [Josh Morgan](), Digital Production Manager
 
 ### Alumni and Alumnae
 
@@ -40,7 +41,7 @@ graph TD
     MB[Mark Baggett, Head] --> MJ[Mike Jones, Director of Technology Solutions]
     MB[Mark Baggett, Head] --> PRA[/Vacant, Publishing and Repository Administrator/]
     MJ[Mike Jones, Director of Technology Solutions] --> PC[Paul Cummins, IT Admin II]
-    MJ[Mike Jones, Director of Technology Solutions] --> SF[Vacant, Frontend Developer]
+    MJ[Mike Jones, Director of Technology Solutions] --> DS[David Shaw, Frontend Developer]
     MJ[Mike Jones, Director of Technology Solutions] --> BED[/Vacant, Backend Developer/]
     MJ[Mike Jones, Director of Technology Solutions] --> LAD[/Vacant, Lead Applications Developer/]
     MH[Meredith Hale, Metadata Librarian] --> MS[Metadata Student Workers]
