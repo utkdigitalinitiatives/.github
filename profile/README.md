@@ -14,12 +14,30 @@ Digital Initiatives at the University of Tennessee Libraries collaborates with o
 
 ### Who We Are
 
-* [David Shaw](https://github.com/dshaw11), Frontend Developer <br>![Github stats](https://github-readme-stats.vercel.app/api?username=dshaw11&theme=radical&show_icons=true&count_private=true)
-* [Josh Morgan](), Digital Production Manager
-* [Mark Baggett](https://github.com/markpbaggett), Head <br>![Github stats](https://github-readme-stats.vercel.app/api?username=markpbaggett&theme=cobalt&show_icons=true&count_private=true)
-* [Meredith Hale](https://github.com/mlhale7), Metadata Librarian <br>![Github stats](https://github-readme-stats.vercel.app/api?username=mlhale7&theme=dracula&show_icons=true&count_private=true)
-* [Mike Jones](https://github.com/mkaljns), Director of Technology Solutions <br>![Github stats](https://github-readme-stats.vercel.app/api?username=mkaljns&theme=synthwave&show_icons=true&count_private=true)
-* [Paul Cummins](https://github.com/pc37utn), IT Administrator II <br>![Github stats](https://github-readme-stats.vercel.app/api?username=pc37utn&theme=prussian&show_icons=true&count_private=true)
+Digital Initiatives
+* [Aaron Albro](https://github.com/di-aaron), Application Developer
+* [Mark Baggett](https://github.com/markpbaggett), Digital Strategies Librarian
+* [Mike Jones](https://github.com/mkaljns), Director of Digital Initiatives
+* [Josh Morgan](https://github.com/kidon0011), Digital Production Manager
+* [David Shaw](https://github.com/dshaw11), Frontend Developer
+* [Will Veale](https://github.com/tedfa), Systems Administrator
+
+Special Collections - Partner
+* [Meredith Hale](https://github.com/mlhale7), Metadata Librarian
+
+### Org Chart
+
+```mermaid
+
+graph TD
+    MJ[Mike Jones, Director of Digital Initiatives] --> MB[Mark Baggett, Digital Strategies]
+    MB --> JM[Josh Morgan, Digital Production Manager]
+    MJ --> WV[Will Veale, Sys Admin]
+    MJ --> DS[David Shaw, FE Developer]
+    MJ --> AA[Aaron Albro, App Developer]
+    MJ --> DBA[/Vacant, DBA/]
+    JM --> DPS[Digital Production Student Workers]
+```
 
 ### Alumni and Alumnae
 
@@ -29,33 +47,9 @@ These people have moved on to new jobs and new careers but made significant cont
 * [Don Richards](https://github.com/DonRichards)
 * [Mat Jordan](https://github.com/mathewjordan/)
 * [Sarah Funk](https://github.com/sfunk3)
+* [Paul Cummins](https://github.com/pc37utn)
 
-
-### Org Chart
-
-```mermaid
-
-graph TD
-    MB[Mark Baggett, Head] --> MH[Meredith Hale, Metadata Librarian]
-    MB[Mark Baggett, Head] --> JM[Josh Morgan, Digital Production Manager]
-    MB[Mark Baggett, Head] --> MJ[Mike Jones, Director of Technology Solutions]
-    MB[Mark Baggett, Head] --> PRA[/Vacant, Publishing and Repository Administrator/]
-    MJ[Mike Jones, Director of Technology Solutions] --> PC[Paul Cummins, IT Admin II]
-    MJ[Mike Jones, Director of Technology Solutions] --> DS[David Shaw, Frontend Developer]
-    MJ[Mike Jones, Director of Technology Solutions] --> BED[/Vacant, Backend Developer/]
-    MJ[Mike Jones, Director of Technology Solutions] --> LAD[/Vacant, Lead Applications Developer/]
-    MH[Meredith Hale, Metadata Librarian] --> MS[Metadata Student Workers]
-    JM[Josh Morgan, Digital Production Manager] --> DPS[Digital Production Student Workers]
-```
-
-## Projects and Applications
-
-### IIIF
-
-* [IIIF Assemble](https://github.com/utkdigitalinitiatives/iiif_assemble): Application that Generates IIIF Presentation v3 Manifests for our current repository
-
-
-## Other Organizations
+## Related Organizations
 
 ### [UTK Metadata](https://github.com/UTKcataloging/)
 
