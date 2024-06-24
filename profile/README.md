@@ -16,7 +16,6 @@ Digital Initiatives at the University of Tennessee Libraries collaborates with o
 
 Digital Initiatives
 * [Aaron Albro](https://github.com/di-aaron), Application Developer
-* [Mark Baggett](https://github.com/markpbaggett), Digital Strategies Librarian
 * [Mike Jones](https://github.com/mkaljns), Director of Digital Initiatives
 * [Josh Morgan](https://github.com/kidon0011), Digital Production Manager
 * [David Shaw](https://github.com/dshaw11), Frontend Developer
@@ -46,6 +45,7 @@ These people have moved on to new jobs and new careers but made significant cont
 * [Bridger Dyson-Smith](https://github.com/canofbees)
 * [Don Richards](https://github.com/DonRichards)
 * [Mat Jordan](https://github.com/mathewjordan/)
+* [Mark Baggett](https://github.com/markpbaggett)
 * [Sarah Funk](https://github.com/sfunk3)
 * [Paul Cummins](https://github.com/pc37utn)
 
