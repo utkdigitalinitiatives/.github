@@ -29,8 +29,8 @@ Special Collections - Partner
 ```mermaid
 
 graph TD
-    MJ[Mike Jones, Director of Digital Initiatives] --> MB[Mark Baggett, Digital Strategies]
-    MB --> JM[Josh Morgan, Digital Production Manager]
+    MJ[Mike Jones, Director of Digital Initiatives] 
+    MJ --> JM[Josh Morgan, Digital Production Manager]
     MJ --> WV[Will Veale, Sys Admin]
     MJ --> DS[David Shaw, FE Developer]
     MJ --> AA[Aaron Albro, App Developer]
