@@ -18,7 +18,8 @@ Digital Initiatives
 * [Aaron Albro](https://github.com/di-aaron), Application Developer
 * [Mike Jones](https://github.com/mkaljns), Director of Digital Initiatives
 * [Josh Morgan](https://github.com/kidon0011), Digital Production Manager
-* [David Shaw](https://github.com/dshaw11), Frontend Developer
+* [David Shaw](https://github.com/dshaw11), Front-end Developer
+* Imtinan Uddin, Database Administrator
 * [Will Veale](https://github.com/tedfa), Systems Administrator
 
 Special Collections - Partner
@@ -34,7 +35,7 @@ graph TD
     MJ --> WV[Will Veale, Sys Admin]
     MJ --> DS[David Shaw, FE Developer]
     MJ --> AA[Aaron Albro, App Developer]
-    MJ --> DBA[/Vacant, DBA/]
+    MJ --> DBA[Imtinan Uddin, DBA]
     JM --> DPS[Digital Production Student Workers]
 ```
 
