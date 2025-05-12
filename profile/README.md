@@ -21,6 +21,7 @@ Digital Initiatives
 * [David Shaw](https://github.com/dshaw11), Front-end Developer
 * Imtinan Uddin, Database Administrator
 * [Will Veale](https://github.com/tedfa), Systems Administrator
+* [Weston Agreda](https://github.com/Weston49), Repository migration student assistant
 
 Special Collections - Partner
 * [Meredith Hale](https://github.com/mlhale7), Metadata Librarian
