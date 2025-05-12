@@ -38,6 +38,7 @@ graph TD
     MJ --> DS[David Shaw, FE Developer]
     MJ --> AA[Aaron Albro, App Developer]
     MJ --> DBA[Imtinan Uddin, DBA]
+    MJ --> MC[Mahitha, Cheeti, Web Developer]
     JM --> DPS[Digital Production Student Workers]
 ```
 
