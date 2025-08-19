@@ -18,7 +18,7 @@ Digital Initiatives
 * [Aaron Albro](https://github.com/di-aaron), Application Developer
 * [Mahitha Cheeti](https://github.com/m-cheeti), Website Developer
 * [Mike Jones](https://github.com/mkaljns), Director of Digital Initiatives
-* [Josh Morgan](https://github.com/kidon0011), Digital Production Manager
+* [Josh Morgan](https://github.com/kidon0011), Digital Collections Administrator
 * [David Shaw](https://github.com/dshaw11), Front-end Developer
 * Imtinan Uddin, Database Administrator
 * [Will Veale](https://github.com/tedfa), Systems Administrator
