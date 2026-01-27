@@ -21,7 +21,7 @@ Digital Initiatives
 * [Josh Morgan](https://github.com/kidon0011), Digital Collections Administrator
 * [David Shaw](https://github.com/dshaw11), Front-end Developer
 * Imtinan Uddin, Database Administrator
-* [Will Veale](https://github.com/tedfa), Systems Administrator
+* [Will Veale](https://github.com/williamveale), Systems Administrator
 * [Weston Agreda](https://github.com/Weston49), Repository migration student assistant
 
 Special Collections - Partner
